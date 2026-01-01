@@ -1,2 +1,3 @@
 # Student_Management_System_Project
-Simple Project
+1st sem project
+
